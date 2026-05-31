@@ -1,0 +1,10 @@
+# Nexus runtime artifacts
+.nexus-pull-stamp
+*.pyc
+__pycache__/
+node_modules/
+brainstorming/scripts/node_modules/
+
+# Skill workspace outputs
+*-workspace/
+evals/runs/
