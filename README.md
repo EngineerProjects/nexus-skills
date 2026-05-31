@@ -15,6 +15,11 @@ Official skill collection for [Nexus](https://github.com/EngineerProjects/Nexus_
 | `requesting-code-review` | Dispatch a code reviewer subagent with precisely crafted context |
 | `test-driven-development` | Red-Green-Refactor TDD cycle with anti-patterns reference |
 | `code-review` | Comprehensive code review for 18+ languages and frameworks |
+| `frontend-design` | Production-grade web UI with intentional aesthetic direction (HTML/CSS/React/Vue) |
+| `pdf` | Read, extract, merge, split, create, fill forms, OCR — full PDF toolkit (requires Python) |
+| `docx` | Create and edit Word documents — styles, tables, images, TOC (requires Python) |
+| `pptx` | Build and edit slide decks — layouts, charts, speaker notes (requires Python) |
+| `xlsx` | Read, create, and edit spreadsheets — formulas, charts, conditional formatting (requires Python) |
 
 ## Structure
 
@@ -73,9 +78,14 @@ Full MIT license text: [code-review-skill/LICENSE](https://github.com/awesome-sk
 
 ### EngineerProjects/Nexus_ai (nexus-engine) — original work
 
-The following skill was originally written for the Nexus engine and is maintained in this repository going forward:
+The following skills were originally written for the Nexus engine and are maintained in this repository:
 
 - `skill-creator/` — original work, © 2026 KPOVIESSI Stéphane
+- `frontend-design/` — original work, written for Nexus
+- `pdf/` — original work, written for Nexus
+- `docx/` — original work, written for Nexus
+- `pptx/` — original work, written for Nexus
+- `xlsx/` — original work, written for Nexus
 
 ---
 
